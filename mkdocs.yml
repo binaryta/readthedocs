@@ -1,2 +1,9 @@
 site_name: My Docs
 site_url: https://example.com/
+nav:
+  - Home:
+    - 'Getting Started': 'index.md'
+  - About:
+    - 'What is MkDocs': 'what-is-mkdocs.md'
+theme:
+  name: readthedocs
